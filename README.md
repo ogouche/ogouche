@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ogouche
+- 👋 Hi, I’m @svntn
 - 👀 I’m interested in ... tech
 - 🌱 I’m currently learning ... what tech i like, just started my journey.
 - 💞️ I’m looking to collaborate on ...
